@@ -1,0 +1,26 @@
+# Todo App
+
+## Overview
+
+This project is a simple **Todo App** built using **Node.js** and **Sequelize** for handling the database. It allows you to perform CRUD (Create, Read, Update, Delete) operations on todo items. Each todo item consists of a title, description, and a completed status.
+
+## Features
+
+- Create a new todo item.
+- Retrieve all todo items.
+- Update a specific todo item.
+- Delete a todo item.
+
+## Tech Stack
+
+- **Node.js**: Backend runtime environment.
+- **Express.js**: Web framework for building the API.
+- **Sequelize**: ORM for interacting with the database (PostgreSQL).
+- **PostgreSQL**: Database for storing todos.
+
+## Installation
+
+### Prerequisites
+
+- Node.js
+- PostgreSQL (or another database supported by Sequelize)
